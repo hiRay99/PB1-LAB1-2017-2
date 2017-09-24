@@ -7,5 +7,9 @@ namespace WebAppProvaa.Models
 {
     public class Caminhao
     {
+        public string Marca { get; set; }
+        public string Nome { get; set; }
+        public string Cilindrada { get; set; }
+        
     }
 }
