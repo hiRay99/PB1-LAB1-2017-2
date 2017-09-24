@@ -9,6 +9,6 @@ namespace WebAppProvaa.Models
     {
         public string Marca { get; set; }
         public string Nome { get; set; }
-        public string cilindrada { get; set; }
+        public string Cilindrada { get; set; }
     }
 }
