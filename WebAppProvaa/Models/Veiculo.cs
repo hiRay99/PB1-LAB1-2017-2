@@ -14,4 +14,6 @@ namespace WebAppProvaa.Models
         public Boolean Disponivel { get; set; }
         public DateTime DataCadastro { get; set; }
     }  
+    
+
 }
